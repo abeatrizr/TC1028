@@ -1,3 +1,3 @@
-1
+1 Turno del jugador
 4 Score Jugador 1 -beatriz
-0 Score Jugador 2 -karla
+4 Score Jugador 2 -karla 
