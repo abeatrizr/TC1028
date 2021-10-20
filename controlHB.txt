@@ -1,1 +1,6 @@
-sigue el 2
+turno:
+Jugadr 1- Beatriz 
+score: 
+
+jugador 2- Humberto 
+Score: 
