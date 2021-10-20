@@ -1,2 +1,4 @@
 Jugador 1= Beatriz
-he iniciado el juego 
+he iniciado el juego     
+Jugador 2= Humberto
+sigo yo
