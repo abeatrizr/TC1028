@@ -1,6 +1,6 @@
-turno:
+turno: 1
 Jugadr 1- Beatriz 
 score: 8 
 
 jugador 2- Humberto 
-Score: 
+Score: 5
